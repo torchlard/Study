@@ -1,0 +1,48 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+GET	/home/lkit/tmp/konva-master/src/Factory.js	/^  var GET = 'get',$/;"	variable
+IMAGE	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^  var IMAGE = 'Image';$/;"	variable
+Image	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^  Konva.Image = function(config) {$/;"	function
+Konva.Factory.addComponentsGetterSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    },$/;"	method
+Konva.Factory.addDeprecatedGetterSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    },$/;"	method
+Konva.Factory.addGetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    },$/;"	method
+Konva.Factory.addGetterSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^  Konva.Factory = {$/;"	method
+Konva.Factory.addOverloadedGetterSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    },$/;"	method
+Konva.Factory.addSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    },$/;"	method
+Konva.Factory.afterSetFilter	/home/lkit/tmp/konva-master/src/Factory.js	/^    },$/;"	method
+Konva.Factory.backCompat	/home/lkit/tmp/konva-master/src/Factory.js	/^    },$/;"	method
+Konva.Image	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^  var IMAGE = 'Image';$/;"	class
+Konva.Image.___init	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^  Konva.Image.prototype = {$/;"	method
+Konva.Image._hitFunc	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    },$/;"	method
+Konva.Image._sceneFunc	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    },$/;"	method
+Konva.Image._useBufferCanvas	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    },$/;"	method
+Konva.Image.fromURL	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^  Konva.Collection.mapMethods(Konva.Image);$/;"	function
+Konva.Image.getHeight	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    },$/;"	method
+Konva.Image.getWidth	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    },$/;"	method
+Konva.Validators.RGBComponent	/home/lkit/tmp/konva-master/src/Factory.js	/^  Konva.Validators = {$/;"	method
+Konva.Validators.alphaComponent	/home/lkit/tmp/konva-master/src/Factory.js	/^    },$/;"	method
+RGBComponent	/home/lkit/tmp/konva-master/src/Factory.js	/^    RGBComponent: function(val) {$/;"	function
+___init	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    ___init: function(config) {$/;"	function
+_hitFunc	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    _hitFunc: function(context) {$/;"	function
+_sceneFunc	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    _sceneFunc: function(context) {$/;"	function
+_useBufferCanvas	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    _useBufferCanvas: function() {$/;"	function
+addComponentsGetterSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    addComponentsGetterSetter: function($/;"	function
+addDeprecatedGetterSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    addDeprecatedGetterSetter: function(constructor, attr, def, validator) {$/;"	function
+addGetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    addGetter: function(constructor, attr, def) {$/;"	function
+addGetterSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    addGetterSetter: function(constructor, attr, def, validator, after) {$/;"	function
+addOverloadedGetterSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    addOverloadedGetterSetter: function(constructor, attr) {$/;"	function
+addSetter	/home/lkit/tmp/konva-master/src/Factory.js	/^    addSetter: function(constructor, attr, validator, after) {$/;"	function
+afterSetFilter	/home/lkit/tmp/konva-master/src/Factory.js	/^    afterSetFilter: function() {$/;"	function
+alphaComponent	/home/lkit/tmp/konva-master/src/Factory.js	/^    alphaComponent: function(val) {$/;"	function
+backCompat	/home/lkit/tmp/konva-master/src/Factory.js	/^    backCompat: function(constructor, methods) {$/;"	function
+constructor	/home/lkit/tmp/konva-master/src/Factory.js	/^      var method = GET + Konva.Util._capitalize(attr);$/;"	class
+constructor	/home/lkit/tmp/konva-master/src/Factory.js	/^      var method = GET + Konva.Util._capitalize(attr);$/;"	function
+fromURL	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^  Konva.Image.fromURL = function(url, callback) {$/;"	function
+getHeight	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    getHeight: function() {$/;"	function
+getWidth	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    getWidth: function() {$/;"	function
+img.onload	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    var img = new Image();$/;"	function
+onload	/home/lkit/tmp/konva-master/src/shapes/Image.js	/^    img.onload = function() {$/;"	function
